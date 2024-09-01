@@ -1,2 +1,2 @@
 # numberGuessingGame
-python project , a nymber guessing game made using python
+python project , a number guessing game made using python
